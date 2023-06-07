@@ -19,3 +19,4 @@ We developed a simple automated handwritten math expression solver. The program 
 * _**Math Solver 1-pager.pdf**_ - This file is our initial plan we developed in the first few weeks. 
 * _**Peer Reviews.pdf**_ - This file contains our peer reviews for other projects.
 * _**Project Instructions.pdf**_ - This file contains some details on the guidelines/instructions for the final project.
+* _**Project Roadmap.pdf**_ - This file contains the project roadmap and a very high level overview of how we should go about doing this project.
