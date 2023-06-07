@@ -20,3 +20,8 @@ We developed a simple automated handwritten math expression solver. The program 
 * _**Peer Reviews.pdf**_ - This file contains our peer reviews for other projects.
 * _**Project Instructions.pdf**_ - This file contains some details on the guidelines/instructions for the final project.
 * _**Project Roadmap.pdf**_ - This file contains the project roadmap and a very high level overview of how we should go about doing this project.
+
+## How to run the code
+There are two options to run the code: (1) Run the .ipynb files OR (2) run the demo (backend + frontend).
+(1) To run the .ipynb files, you need to go into the 171_finalProject.ipynb and simply run the cells. Ensure that the filepaths in the beginning are setup properly.
+(2) To run the demo, you need to go into type `python sever.py` on the backend folder. Make sure you have the necessary libraries. Then just open up index.html. 
