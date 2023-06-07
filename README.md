@@ -23,5 +23,5 @@ We developed a simple automated handwritten math expression solver. The program 
 
 ## How to run the code
 There are two options to run the code: (1) Run the .ipynb files OR (2) run the demo (backend + frontend).
-- (1) To run the .ipynb files, you need to go into the 171_finalProject.ipynb and simply run the cells. Ensure that the filepaths in the beginning are setup properly.
+- (1) To run the .ipynb files, you need to go into the 171_finalProject.ipynb and simply run the cells. Ensure that the filepaths in the beginning are setup properly. If you would also like to see the CNN, you must go into cnn_v2/cnn.ipynb. However, the dataset is not downloaded so please be sure to download it via the HASYv2 public link and the custom samples that are on hasyEXTENDED.
 - (2) To run the demo, you need to go into type `python sever.py` on the backend folder. Make sure you have the necessary libraries. Then just open up index.html. 
