@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+      rel="stylesheet"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="styles.css" rel="stylesheet" />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"
+      defer
+    ></script>
+    <script src="script.js" defer></script>
+
+    <title>Expression Solving</title>
+  </head>
+  <body>
+    <h1>Group 18 - Expression Solver</h1>
+    <div id="sidebar">
+      <h2>Original</h2>
+      <div id="old">
+        <img id="old-img" />
+      </div>
+      <h2>Contours</h2>
+      <div id="contours">
+        <img id="contours-img" />
+      </div>
+      <h2>Terms</h2>
+      <div id="numbers">
+        <img id="numbers-img" />
+      </div>
+      <h2>Expression</h2>
+      <div id="equation"></div>
+    </div>
+    <div id="main">
+      <div id="res">
+        <h3>Result</h3>
+        <div id="result"></div>
+      </div>
+      <div id="canvas-container">
+        <img src="" id="pic" />
+        <!-- <canvas id="canvas"></canvas> -->
+      </div>
+      <div id="buttons">
+        <button id="solve">Solve</button>
+        <button id="clear">Clear</button>
+        <button id="upload">Upload</button>
+        <input type="file" id="myFile" />
+      </div>
+    </div>
+  </body>
+</html>
